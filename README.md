@@ -15,3 +15,9 @@ Odds Ratio: This sheet allows you to calculate crude odds ratios and 95% confide
 SE -> SD: this sheet helps to transform standard errors (SE) to standard deviations (SE). Some studies only report standard errors, but it can be significantly easier to interpret and report data when they include standard deviations. 
 
 95% CI -> SD: This sheet helps to transform 95% confidence intervals (CIs) to standard deviations (as well as standard errors). This is helpful when studies only report confidence intervals.
+
+MD Change from Baseline: This sheet allows you to calculate mean difference for the change from baseline between two groups. 
+
+MD Post-tx: This sheet allows you to calculate the mean difference in follow-up scores between two groups.
+
+Diagnostic Performance: This sheet helps to calculate sensitivity, specificity, positive predictive values, and negative predictive values based on summary case data. 
