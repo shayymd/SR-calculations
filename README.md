@@ -21,3 +21,5 @@ MD Change from Baseline: This sheet allows you to calculate mean difference for 
 MD Post-tx: This sheet allows you to calculate the mean difference in follow-up scores between two groups.
 
 Diagnostic Performance: This sheet helps to calculate sensitivity, specificity, positive predictive values, and negative predictive values based on summary case data. 
+
+Chi2 Test: This sheet allows you to perform basic chi-squared tests, and outputs the Chi-squared statistic and p-value between two observed groups. Additionally, it assists to calculate a bonferroni correction if performing multiple tests and wanting to reduce the type I error rate.
