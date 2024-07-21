@@ -6,20 +6,18 @@ Anything more complicated is worth doing in a statistical program.
 
 Included features
 
-Proportions and RR: This sheet allows the quick calculations of proportions, risk ratios, and 95% confidence intervals. The proportions section offers two methods: one when you have the numerator (n) and denominator (N), and another for when you have the proportion (%) and denominator. Additionally, there is a section to calculate crude risk ratios and their associated 95% confidence intervals when you have summary case data. 
+Proportions and Risks: This sheet allows the quick calculations of proportions, risk ratios, and 95% confidence intervals. The proportions section offers two methods: one when you have the numerator (n) and denominator (N), and another for when you have the proportion (%) and denominator. Additionally, there is a section to calculate crude risk ratios and their associated 95% confidence intervals when you have summary case data. 
 
-Risk Ratio: This is a simplified sheet copying the crude risk ratio and 95% confidence interval section from the Proportions and RR sheet.
+RR & RRmH: This tool is adapted from the rothman episheet, and allows you to calculate crude and mantel-haenszel RRs.
 
-Odds Ratio: This sheet allows you to calculate crude odds ratios and 95% confidence intervals when you have summary case data.
+Crude OR: This sheet allows you to calculate crude odds ratios and 95% confidence intervals when you have summary case data.
 
-SE -> SD: this sheet helps to transform standard errors (SE) to standard deviations (SE). Some studies only report standard errors, but it can be significantly easier to interpret and report data when they include standard deviations. 
+OR & ORmh: This tool is adapted from the rothman episheet, and allows you to calculate crude and mantel-Haenzel ORs
 
-95% CI -> SD: This sheet helps to transform 95% confidence intervals (CIs) to standard deviations (as well as standard errors). This is helpful when studies only report confidence intervals.
+Transformations: This sheet allows you to calculate standard deviations based on standard errors and 95% confidence intervals
 
-MD Change from Baseline: This sheet allows you to calculate mean difference for the change from baseline between two groups. 
+MDs: This sheet allows you to calculate mean differences in change scores and mean differences in follow-up scores.
 
-MD Post-tx: This sheet allows you to calculate the mean difference in follow-up scores between two groups.
+Tests: This sheet allows you to quickly calculate tests of association and diagnostic accuracy tests. Of note is that you can calculate Fisher's Exact Test for small samples; other than a few online tools, this has generally required speciality statistical software to do due to the difficulty in manually calculating contingency tables and probabilities.
 
-Diagnostic Performance: This sheet helps to calculate sensitivity, specificity, positive predictive values, and negative predictive values based on summary case data. 
-
-Chi2 Test: This sheet allows you to perform basic chi-squared tests, and outputs the Chi-squared statistic and p-value between two observed groups. Additionally, it assists to calculate a bonferroni correction if performing multiple tests and wanting to reduce the type I error rate.
+Pooled means: This sheet allows you to quickly calculate pools means, standard errors, and 95% confidence intervals for up to 4 groups. 
